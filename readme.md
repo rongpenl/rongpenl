@@ -15,7 +15,7 @@
 <!-- Its main projects -->
 ### Projects
 
-The **S (parrow) H (ummingbird) O (wl) W (oodpecker)** data science project.
+The **S (parrow) H (ummingbird) O (wl) W (oodpecker)** data science projects.
 
 <!-- Its main projects -->
 <p align="center">
