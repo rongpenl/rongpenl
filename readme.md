@@ -7,7 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ron-li-6531bb1b7/)
 [![Twitter](https://img.shields.io/badge/-Twitter-000?style=flat-square&logo=Twitter&logoColor=blue)](https://www.twitter.com/rongpengli)
 [![Blog](https://img.shields.io/badge/%E4%B8%AD%E8%8B%B1%E6%B7%B7%E6%9D%82-Blog-green?style=flat-square&logo=notion)](https://rongpeng.li)
-[![Book](https://img.shields.io/badge/Book-Statistics%20for%20Data%20Science-red)](https://img.shields.io/badge/Book-Statistics%20for%20Data%20Science-red)
+[![Book](https://img.shields.io/badge/Book-HandsOn%20Statistics%20for%20Data%20Science-red)](https://www.amazon.com/dp/B08GY7LF3N/ref=tsm_1_tp_tc)
 ![Ron's github stats](https://github-readme-stats.vercel.app/api?username=rongpenl&show_icons=true&hide_border=true)
 
 
