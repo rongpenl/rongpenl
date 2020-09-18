@@ -18,22 +18,22 @@
 The **S (parrow) H (ummingbird) O (wl) W (oodpecker)** data science projects.
 
 <!-- Its main projects -->
-<p align="center">
+<p align="left">
   <a href="https://github.com/rongpenl/sparrow">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rongpenl&repo=sparrow" />
   </a>
 </p>
-<p align="center">
+<p align="left">
   <a href="https://github.com/rongpenl/hummingbird">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rongpenl&repo=hummingbird" />
   </a>
 </p>
-<p align="center">
+<p align="left">
    <a href="https://github.com/rongpenl/owl">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rongpenl&repo=owl" />
   </a>
 </p>
-<p align="center">
+<p align="left">
   <a href="https://github.com/rongpenl/woodpecker">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rongpenl&repo=woodpecker" />
   </a>
