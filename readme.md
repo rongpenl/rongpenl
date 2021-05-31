@@ -1,5 +1,5 @@
 <!-- Your title -->
-## Hi, Ron here. I am a data science instructor based at LA. I work for [Galvanize](https://www.galvanize.com/data-science-bootcamp) in the daytime.
+## Hi, Ron here. I am a senior data scientist & data science instructor based at LA. I work for [Galvanize](https://www.galvanize.com/data-science-bootcamp) in the daytime.
 
 
 &nbsp;
