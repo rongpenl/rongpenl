@@ -15,27 +15,25 @@
 <!-- Its main projects -->
 ### Projects
 
-The **S (parrow) H (ummingbird) O (wl) W (oodpecker)** data science projects.
-
 <!-- Its main projects -->
 <p align="left">
-  <a href="https://github.com/rongpenl/sparrow">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rongpenl&repo=sparrow" />
+  <a href="https://github.com/Watch-And-Learn/independent-tech-blog">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Watch-And-Learn&repo=independent-tech-blog" />
   </a>
 </p>
 <p align="left">
-  <a href="https://github.com/rongpenl/hummingbird">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rongpenl&repo=hummingbird" />
+  <a href="https://github.com/Watch-And-Learn/company-tech-blog">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Watch-And-Learn&repo=company-tech-blog" />
   </a>
 </p>
 <p align="left">
-   <a href="https://github.com/rongpenl/owl">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rongpenl&repo=owl" />
+   <a href="https://github.com/Watch-And-Learn/sayitagain">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Watch-And-Learn&repo=sayitagain" />
   </a>
 </p>
 <p align="left">
-  <a href="https://github.com/rongpenl/woodpecker">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rongpenl&repo=woodpecker" />
+  <a href="https://github.com/Watch-And-Learn/data-science-bird-view">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Watch-And-Learn&repo=data-science-bird-view" />
   </a>
 </p>
 
